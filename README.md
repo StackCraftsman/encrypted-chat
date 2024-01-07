@@ -1,0 +1,1 @@
+ a chat app encrypted, real time, using node very own websocket, crypto, no external dependencies used
